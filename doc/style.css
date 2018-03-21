@@ -1,0 +1,11 @@
+body{
+	background-image: url(hack.jpg);
+	background-size: cover;
+	border: 5px solid pink;
+}
+p{
+	color: red;
+}
+a{
+	color: FFCBAA;
+}
